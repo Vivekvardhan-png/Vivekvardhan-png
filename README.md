@@ -17,11 +17,25 @@
 
 # 🚀 About Me
 
+<table>
+<tr>
+<td width="65%">
+
 - 🧠 Exploring **AI, Data, and Product Thinking**
 - 🎨 Interested in crafting clean and intuitive **UI/UX experiences**
 - 🌐 Building projects using **React and modern web technologies**
 - 🚀 Curious about **startup building and digital products**
 - 💭 A developer who loves building things driven by curiosity
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/5sCkxE2n0rs3wRdj4E/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,40 +99,10 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivekvardhan-png&show_icons=true&theme=default&hide_border=true&title_color=0F172A&icon_color=475569&text_color=334155"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekvardhan-png&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=334155"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vivekvardhan-png&theme=default&hide_border=true&ring=475569&fire=475569&currStreakLabel=0F172A"/>
-</p>
-
----
-
-# 🎯 Fun Fact
-
-✨ *Can spend hours perfecting UI.*
-
----
-
-# 💭 Quote
-
-> *“Exploring AI, data, and product thinking one project at a time.”*
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivekvardhan-png&label=Profile%20Views&color=475569&style=for-the-badge"/>
 </p>
 
 ---
